@@ -9,7 +9,7 @@
 
     • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
   
-    • Backend Development with Node.JS, GraphQL, Golang, .NET, Django, Laravel, Slim.
+    • Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
   
