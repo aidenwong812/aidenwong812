@@ -11,7 +11,7 @@
   
     • Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
 
-    • Blockchain Development (DeFi, NFT, DApps, DEX and P2E, Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
+    • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
   
 
 
