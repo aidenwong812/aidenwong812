@@ -18,8 +18,8 @@
 <br>
 <p align="center">
 <img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=aidenwong812&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" />
-<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=aidenwong812&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="400" />
-<br><br><br><br><br><br><br><br><br></p>
+<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=aidenwong812&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" />
+<br><br></p>
 
 
 <p align="center">
