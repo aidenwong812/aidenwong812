@@ -7,9 +7,9 @@
 
 - 🌱 Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
+    • Web design and Frontend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
   
-    • Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
+    • Backend Development with Node.JS, GraphQL, Golang, Rust, Laravel.
 
     • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
 
